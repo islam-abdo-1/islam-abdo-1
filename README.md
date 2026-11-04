@@ -56,7 +56,7 @@ I'm the **Founder & Lead Engineer of [Sakan](https://www.sakan-egy.com/)**, a st
 
 <table>
 <tr>
-<td width="76" valign="top"><img src="assets/icon-sakan.svg" width="56" alt="Sakan icon" /></td>
+<td width="76" valign="top"><img src="assets/logo-sakan.png" width="56" alt="Sakan logo" /></td>
 <td valign="top">
 <h3>Sakan — Student Housing Platform</h3>
 <p><strong>Founder &amp; Lead Engineer</strong> · <a href="https://www.sakan-egy.com/">Live Site ↗</a> · <a href="https://github.com/OmarSalah26/Sakan">Repository ↗</a></p>
@@ -74,7 +74,7 @@ I'm the **Founder & Lead Engineer of [Sakan](https://www.sakan-egy.com/)**, a st
 
 <table>
 <tr>
-<td width="76" valign="top"><img src="assets/icon-dev-academy.svg" width="56" alt="Dev Academy icon" /></td>
+<td width="76" valign="top"><img src="assets/logo-dev-academy.png" width="56" alt="Dev Academy logo" /></td>
 <td valign="top">
 <h3>Dev Academy — Arabic-First CS Learning Platform</h3>
 <p><strong>Private repository</strong> · <a href="https://dev-academy.pages.dev">Live Product ↗</a></p>
@@ -92,7 +92,7 @@ I'm the **Founder & Lead Engineer of [Sakan](https://www.sakan-egy.com/)**, a st
 
 <table>
 <tr>
-<td width="76" valign="top"><img src="assets/icon-ai-car.svg" width="56" alt="AI Car Price Predictor icon" /></td>
+<td width="76" valign="top"><img src="assets/logo-ai-car.png" width="56" alt="AI Car Price Predictor logo" /></td>
 <td valign="top">
 <h3>AI Car Price Predictor — Machine Learning</h3>
 <p><strong>NTI × ITIDA Summer Training 2026</strong> · <a href="https://ai-car-price-predictor.vercel.app">Live Demo ↗</a> · <a href="https://github.com/islam-abdo-1/ai-car-price-predictor">Repository ↗</a></p>
@@ -110,7 +110,7 @@ I'm the **Founder & Lead Engineer of [Sakan](https://www.sakan-egy.com/)**, a st
 
 <table>
 <tr>
-<td width="76" valign="top"><img src="assets/icon-qr-menu.svg" width="56" alt="QR Menu icon" /></td>
+<td width="76" valign="top"><img src="assets/logo-qr-menu.png" width="56" alt="QR Menu logo" /></td>
 <td valign="top">
 <h3>QR Menu — Multi-Restaurant Digital Menu SaaS</h3>
 <p><strong>Multi-tenant SaaS</strong> · <a href="https://site-menu.ddnsfree.com">Live Site ↗</a> · <a href="https://github.com/islam-abdo-1/qr-menu">Repository ↗</a></p>
@@ -127,6 +127,10 @@ I'm the **Founder & Lead Engineer of [Sakan](https://www.sakan-egy.com/)**, a st
 ---
 
 ## `04` — TRAINING & CERTIFICATION
+
+<div align="center">
+<img src="assets/logo-nti.png" width="230" alt="National Telecommunication Institute (NTI)" />
+</div>
 
 <table>
 <tr>
@@ -166,6 +170,7 @@ I'm always happy to talk about AI products, SaaS, proptech, or an interesting pr
 [![Email](https://img.shields.io/badge/Email-islam230366qw%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islam230366qw@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Islam%20Abdo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-abdo-ibrahim)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B20%20102%20303%206631-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201023036631)
+[![GitHub](https://img.shields.io/badge/GitHub-islam--abdo--1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/islam-abdo-1)
 
 </div>
 
