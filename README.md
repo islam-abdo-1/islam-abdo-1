@@ -129,7 +129,7 @@ I'm the **Founder & Lead Engineer of [Sakan](https://www.sakan-egy.com/)**, a st
 ## `04` — TRAINING & CERTIFICATION
 
 <div align="center">
-<img src="assets/logo-nti.png" width="230" alt="National Telecommunication Institute (NTI)" />
+<img src="assets/logo-nti.png" width="300" alt="National Telecommunication Institute (NTI)" />
 </div>
 
 <table>
