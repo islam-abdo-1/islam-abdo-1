@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="Islam Abdo - AI Developer and Full-Stack Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B14"/>
+      <stop offset="0.55" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#0EA5E9" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#6366F1" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1E293B" stroke-width="1" opacity="0.55"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="400" fill="url(#bg)"/>
+  <rect width="1280" height="400" fill="url(#grid)"/>
+  <circle cx="1080" cy="80" r="260" fill="url(#glow1)"/>
+  <circle cx="220" cy="360" r="240" fill="url(#glow2)"/>
+
+  <rect x="24" y="24" width="1232" height="352" rx="24" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+  <path d="M24 96V48a24 24 0 0 1 24-24h56" fill="none" stroke="url(#accent)" stroke-width="2"/>
+  <path d="M1256 304v48a24 24 0 0 1-24 24h-56" fill="none" stroke="url(#accent)" stroke-width="2"/>
+
+  <text x="72" y="112" fill="#38BDF8" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="4">AI DEVELOPER &amp; FULL-STACK ENGINEER</text>
+  <text x="68" y="196" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-2">Islam Abdo</text>
+  <text x="72" y="242" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19">Building AI-driven products and SaaS platforms — from idea to production.</text>
+
+  <g font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">
+    <rect x="72" y="286" width="88" height="30" rx="15" fill="#0F172A" stroke="#1E293B"/>
+    <text x="92" y="306">Python</text>
+    <rect x="172" y="286" width="72" height="30" rx="15" fill="#0F172A" stroke="#1E293B"/>
+    <text x="192" y="306">React</text>
+    <rect x="256" y="286" width="88" height="30" rx="15" fill="#0F172A" stroke="#1E293B"/>
+    <text x="276" y="306">FastAPI</text>
+    <rect x="356" y="286" width="88" height="30" rx="15" fill="#0F172A" stroke="#1E293B"/>
+    <text x="376" y="306">Next.js</text>
+    <rect x="456" y="286" width="120" height="30" rx="15" fill="#0F172A" stroke="#1E293B"/>
+    <text x="476" y="306">PostgreSQL</text>
+    <rect x="588" y="286" width="112" height="30" rx="15" fill="#0F172A" stroke="#1E293B"/>
+    <text x="608" y="306">Cloudflare</text>
+  </g>
+
+  <g transform="translate(840 76)">
+    <rect x="0" y="0" width="344" height="248" rx="20" fill="#0B1120" stroke="#1E293B"/>
+    <text x="24" y="34" fill="#64748B" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2">SYSTEM / OVERVIEW</text>
+    <circle cx="296" cy="30" r="5" fill="#22C55E"/>
+    <text x="278" y="35" fill="#22C55E" font-family="Consolas, 'Courier New', monospace" font-size="10" text-anchor="end">LIVE</text>
+
+    <g font-family="Consolas, 'Courier New', monospace">
+      <rect x="24" y="58" width="296" height="38" rx="8" fill="#0F172A" stroke="#164E63"/>
+      <text x="40" y="82" fill="#22D3EE" font-size="12">AI / AGENTS</text>
+      <text x="300" y="82" fill="#475569" font-size="10" text-anchor="end">LLM · ML · AUTOMATION</text>
+
+      <rect x="24" y="106" width="296" height="38" rx="8" fill="#0F172A" stroke="#1E3A8A"/>
+      <text x="40" y="130" fill="#60A5FA" font-size="12">API / BACKEND</text>
+      <text x="300" y="130" fill="#475569" font-size="10" text-anchor="end">FASTAPI · NODE · AUTH</text>
+
+      <rect x="24" y="154" width="296" height="38" rx="8" fill="#0F172A" stroke="#312E81"/>
+      <text x="40" y="178" fill="#818CF8" font-size="12">DATA / STORAGE</text>
+      <text x="300" y="178" fill="#475569" font-size="10" text-anchor="end">POSTGRES · SUPABASE</text>
+
+      <rect x="24" y="202" width="296" height="30" rx="8" fill="#0F172A" stroke="#334155"/>
+      <text x="40" y="222" fill="#94A3B8" font-size="12">CLOUD / DELIVERY</text>
+      <text x="300" y="222" fill="#475569" font-size="10" text-anchor="end">VERCEL · CLOUDFLARE</text>
+
+      <path d="M172 96V106" stroke="#334155" stroke-width="1.5"/>
+      <path d="M172 144V154" stroke="#334155" stroke-width="1.5"/>
+      <path d="M172 192V202" stroke="#334155" stroke-width="1.5"/>
+    </g>
+
+    <path d="M0 24V12A12 12 0 0 1 12 0h12" fill="none" stroke="#22D3EE" stroke-width="2"/>
+    <path d="M344 224v12a12 12 0 0 1-12 12h-12" fill="none" stroke="#818CF8" stroke-width="2"/>
+  </g>
+
+  <text x="72" y="352" fill="#475569" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1">github.com/islam-abdo-1</text>
+  <text x="1208" y="352" fill="#475569" font-family="Consolas, 'Courier New', monospace" font-size="12" text-anchor="end" letter-spacing="1">EGYPT · OPEN TO REMOTE</text>
+</svg>
