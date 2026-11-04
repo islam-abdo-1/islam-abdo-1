@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Islam Abdo — AI Developer & Full-Stack Engineer" width="100%" />
+<img src="assets/banner.svg" alt="ENG. Islam Abdo — AI Developer &amp; Full-Stack Engineer" width="100%" />
 
 <br /><br />
 
