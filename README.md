@@ -6,6 +6,8 @@
 
 [![Email](https://img.shields.io/badge/Email-islam230366qw%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:islam230366qw@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Islam%20Abdo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-abdo-ibrahim)
+[![Instagram](https://img.shields.io/badge/Instagram-islamabdou368-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/islamabdou368)
+[![TikTok](https://img.shields.io/badge/TikTok-%40islam__abdo__1-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@islam_abdo_1)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B20%20102%20303%206631-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201023036631)
 [![GitHub](https://img.shields.io/badge/GitHub-islam--abdo--1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/islam-abdo-1)
 [![Open to freelance](https://img.shields.io/badge/OPEN%20TO-Freelance%20%26%20Remote-2EA043?style=flat-square)](#06--connect)
@@ -77,7 +79,7 @@ I'm the **Founder & Lead Engineer of [Sakan](https://www.sakan-egy.com/)**, a st
 <td width="76" valign="top"><img src="assets/logo-dev-academy.png" width="56" alt="Dev Academy logo" /></td>
 <td valign="top">
 <h3>Dev Academy — Arabic-First CS Learning Platform</h3>
-<p><strong>Private repository</strong> · <a href="https://dev-academy.pages.dev">Live Product ↗</a></p>
+<p><strong>Full-stack platform</strong> · <a href="https://dev-academy.pages.dev">Live Product ↗</a> · <a href="https://github.com/islam-abdo-1/dev-academy">Repository ↗</a></p>
 <p>An Arabic-first study platform for computer science students — curated lectures, summaries, past exams, and shareable study lists for Artificial Intelligence and Cybersecurity.</p>
 <ul>
 <li>Structured catalog, in-browser previews, personal library, public sharing, material ratings, and a staff publishing workflow.</li>
@@ -169,6 +171,8 @@ I'm always happy to talk about AI products, SaaS, proptech, or an interesting pr
 
 [![Email](https://img.shields.io/badge/Email-islam230366qw%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islam230366qw@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Islam%20Abdo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-abdo-ibrahim)
+[![Instagram](https://img.shields.io/badge/Instagram-islamabdou368-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/islamabdou368)
+[![TikTok](https://img.shields.io/badge/TikTok-%40islam__abdo__1-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@islam_abdo_1)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B20%20102%20303%206631-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201023036631)
 [![GitHub](https://img.shields.io/badge/GitHub-islam--abdo--1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/islam-abdo-1)
 
